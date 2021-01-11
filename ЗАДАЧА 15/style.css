@@ -1,0 +1,9 @@
+body {
+    background: url(img/grid_noise.png);
+}
+.wrapper {
+border: 2px solid black;
+margin: 30px auto;
+height: 100px;
+width: 200px;
+}

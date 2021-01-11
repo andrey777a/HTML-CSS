@@ -1,0 +1,11 @@
+* {margin: 0;}
+html {
+background-image: url(https://subtlepatterns.com/patterns/grid_noise.png);
+font-family: Georgia, "Century Schoolbook L", Serif;
+}
+.container {width: 380px; margin: 50px auto;}
+h1 {color: green;}
+h2 {color: olive; margin-bottom: 10px;}
+p {text-align: justify; margin-bottom: 10px;}
+span {font-size: 120%;}
+.ssylka {text-align: center; font-size: 80%;}

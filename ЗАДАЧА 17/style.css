@@ -1,0 +1,15 @@
+body {
+    background-image: url(https://img-fotki.yandex.ru/get/67890/136164467.17/0_12bc81_21263ac1_orig.png);
+}
+p:first-letter {
+    color: red;
+    font-size: 200%;
+}
+.textcolor {
+    color: blue;
+}
+div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
